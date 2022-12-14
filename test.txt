@@ -4,3 +4,4 @@ This is in master branch
 This is a new line
 Made a change on GitHub
 Made another change on GitHub
+Pulled on newbranch and added a line
